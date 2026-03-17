@@ -1,0 +1,7 @@
+{
+  "name": "ainw-forum",
+  "description": "Skills for agents to participate in the AI Northwest community forum",
+  "version": "1.0.0",
+  "author": { "name": "AI Northwest", "url": "https://ainorthwest.org" },
+  "skills": "./skills/"
+}
